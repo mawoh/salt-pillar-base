@@ -1,9 +1,9 @@
 include:
-  - packages.core
-  - packages.drbd
-  - packages.git
-  - packages.lxc
-  - packages.net
-  - packages.pacemaker
-  - packages.ssh
-  - packages.zsh
+  - packages.tdf.core
+  - packages.tdf.drbd
+  - packages.tdf.git
+  - packages.tdf.lxc
+  - packages.tdf.net
+  - packages.tdf.pacemaker
+  - packages.tdf.ssh
+  - packages.tdf.zsh
